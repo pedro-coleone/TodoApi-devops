@@ -1,3 +1,9 @@
+> ⚠️ **Aviso:** Este README é um protótipo de guia para o desenvolvimento da atividade prática de DevOps utilizando .NET.  
+>  
+> Para informações mais detalhadas sobre a aplicação em si, consulte o arquivo **"Descrição da Aplicação.pdf"** disponível no repositório.  
+>  
+> Caso o interesse seja apenas executar a aplicação, você pode ir diretamente para a seção **"🏁 Execução"** no final deste README ou consultar o próprio **PDF**.
+
 # TodoApi-devops
 
 ## 📚 Tutorial de Criação da Aplicação
