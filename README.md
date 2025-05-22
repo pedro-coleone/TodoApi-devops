@@ -285,7 +285,6 @@ docker-compose up --build
 
 3. Acesse no navegador:
 - Frontend: http://localhost:3000  
-- Backend: http://localhost:5000/api/todoitems  
 
 ---
 
